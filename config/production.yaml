@@ -1,0 +1,6 @@
+db : 
+  synchronize: false
+
+
+server : 
+  origin : 'https://task-management-app-six.vercel.app'  
